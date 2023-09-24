@@ -1,0 +1,15 @@
+.ItemsContainer {    
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem 5rem;
+    border-radius: 5%;
+    font-weight: 700;
+    color: #000000;
+}
+.ItemsContainerProductos {
+    text-align: left;
+    padding: 1rem;
+    margin: 1rem 19rem;
+    border-radius: 2rem;
+    color: #000000;
+}

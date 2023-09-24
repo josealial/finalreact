@@ -1,0 +1,23 @@
+.imgCarrito {
+    width: 2.5rem;
+}
+
+.numeroCarrito {   
+    border-radius: 20%;
+    padding: 0.3rem;
+    margin-left: 0.5rem;
+    color: #ee0d0d;
+}
+
+.btnCarrito {
+    padding: 0 2rem;
+    cursor: pointer;
+    display: inline-block;
+    text-decoration: none;
+    outline: none;
+}
+a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 18px;
+}

@@ -1,0 +1,52 @@
+.cardProducto {
+    background: radial-gradient(circle, rgba(50, 96, 135) 0%, rgba(0, 0, 0, 0.6783088235294117) 100%);
+    border-radius: 10px;
+    width: 17rem;
+    padding: 1rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: white;
+}
+
+.imgProducto {
+    width: 200px;
+    object-fit: contain;
+}
+
+.btnProducto {
+    color: white;
+    font-size: 1.2rem;
+    width: 8rem;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    padding-left: 12px;
+}
+
+.btnProducto:hover {
+    text-decoration: underline;
+    color: #d7dce0;
+}
+
+.precio {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+
+.Udisponibles {
+    font-size: 13px;
+    padding-bottom: 15px;
+}
+
+.tituloCard {
+    font-size: 30px;
+}
+
+.hrItem {
+    width: 80%;
+    height: 5px;
+    color: white;
+    margin: 10px auto;
+}

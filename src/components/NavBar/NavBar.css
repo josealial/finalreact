@@ -1,0 +1,51 @@
+ .Logo {
+    display: flex;
+    justify-content: flex-end;
+    width: 100px;
+    height: 100px;
+  }
+  
+  .navbar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background: linear-gradient(to right,
+        rgb(3, 3, 3),
+        white,
+        rgb(0, 0, 0));
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  
+  .navbar-list {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+    gap: 100px;
+    padding: 10px;
+  }
+  
+  
+  
+  .navbar h3 {
+    font-size: 40px;
+    color: #ffffff;
+  }
+  
+  .btn {
+    text-decoration: none;
+    color: #333;
+    padding: 15px 25px;
+    background-color: #ffffff;
+    border-radius: 15px;
+    gap: 5px;
+    margin: 10px;
+    font-size: 18px;
+  }
+  
+  .btn:hover {
+    background-color: #000000;
+    color: #ffffff;
+    transition: 0.4s;
+  }

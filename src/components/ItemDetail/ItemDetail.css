@@ -1,0 +1,46 @@
+.contenedorItem {
+    text-align: center;
+    margin: 3rem;
+}
+
+img {
+    width: 30vw;
+}
+
+.conteDescrip{
+    background: linear-gradient(to right,
+        rgb(3, 3, 3),
+        white,
+        rgb(0, 0, 0));
+    background-color: rgba(0, 0, 0, 0.7);
+    width: 50%;
+    align-content: center;
+    margin: 0 auto;   
+    color: white;
+    border-radius: 1rem;
+    padding-bottom: 1rem;
+}
+
+.title{
+    font-size: 3rem;
+    padding: 0.5rem;
+    padding: 1rem;
+}
+
+.descrip {
+    font-size: 1.3rem;
+    padding: 0 2rem;
+    font-weight: 400;
+}
+
+.parraf {
+ margin-top: 2rem;
+ font-size: 1.5rem;
+}
+
+.hr {
+    width: 80%;
+    height: 5px;
+    color: white;
+    margin: 15px auto;
+  }
